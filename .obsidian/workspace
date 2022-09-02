@@ -1,0 +1,127 @@
+{
+  "main": {
+    "id": "0b782c77f6a251c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "3cebc32397011c0f",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c0e69c19a25bb8f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "a89ccb0fac34b014",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3746da0056c630b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b7af0b51bbc99af6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8fd81cafb26ba87d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a27115cdd6f2cdc0",
+    "type": "split",
+    "children": [
+      {
+        "id": "9efc41f99b83ae2b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3fb319c316268298",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "666cef451367a89e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6852d1ea92656634",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1fc0f6a0e7967958",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3cebc32397011c0f",
+  "lastOpenFiles": [
+    "Home/Character Information/Character Information.md"
+  ]
+}
