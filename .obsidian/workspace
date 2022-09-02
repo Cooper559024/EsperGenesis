@@ -7,8 +7,12 @@
         "id": "3cebc32397011c0f",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Home/Plot/Galaxy Info/Powerful Organizations/The Umbral Council.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Home/Plot/Galaxy Info/Powerful Organizations/The Umbral Council.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Home/Plot/Galaxy Info/Powerful Organizations/The Umbral Council.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Home/Plot/Galaxy Info/Powerful Organizations/The Umbral Council.md"
+              }
             }
           }
         ]
@@ -122,6 +130,9 @@
   },
   "active": "3cebc32397011c0f",
   "lastOpenFiles": [
+    "Home/Plot/Galaxy Info/Powerful Organizations/The Cad Cabal.md",
+    "Home/Maps & Info/Syndicate Safe House on Abraxis Prime.md",
+    "Home/Esper Genesis.md",
     "Home/Character Information/Character Information.md"
   ]
 }
